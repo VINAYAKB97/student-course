@@ -81,7 +81,7 @@
         "duration": "6 weeks",
         "schedule": "Monday, Wednesday - 5:00 PM to 7:00 PM",
         "location": "Local Coding School",
-        "image": "https://phantomlandscapes.files.wordpress.com/2021/04/html-css-javascript.jpg",
+        "image": "https://alihafezi.com/wp-content/uploads/2019/06/HTML-CSS-Javascript.jpg",
         "prerequisites": "Basic knowledge of HTML and CSS",
         "syllabus": [
             {
