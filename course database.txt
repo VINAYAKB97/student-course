@@ -81,7 +81,7 @@
         "duration": "6 weeks",
         "schedule": "Monday, Wednesday - 5:00 PM to 7:00 PM",
         "location": "Local Coding School",
-        "image": "https://blog.knoldus.com/wp-content/uploads/2020/05/Logo.png",
+        "image": "https://i.ytimg.com/vi/hPSUTj1ASmE/maxresdefault.jpg",
         "prerequisites": "Basic knowledge of HTML and CSS",
         "syllabus": [
             {
