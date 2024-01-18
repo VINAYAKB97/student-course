@@ -1,0 +1,373 @@
+[
+    {
+        "id": 1,
+        "name": "Python Programming",
+        "instructor": "John Doe",
+        "description": "Learn Python programming from basics to advanced concepts.",
+        "enrollment_status": "Open",
+        "duration": "8 weeks",
+        "schedule": "Monday, Wednesday, Friday - 6:00 PM to 8:00 PM",
+        "location": "Online",
+        "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/38787wallpaper.png",
+        "prerequisites": "None",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Python",
+                    "Setting up Python Environment",
+                    "Basic Python Syntax"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Data Types and Variables",
+                    "Strings and Lists",
+                    "Control Flow Statements"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "Functions and Modules",
+                    "File Handling"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Java Programming",
+        "instructor": "Jane Smith",
+        "description": "Master Java development with hands-on projects and examples.",
+        "enrollment_status": "In Progress",
+        "duration": "10 weeks",
+        "schedule": "Tuesday, Thursday - 7:00 PM to 9:00 PM",
+        "location": "Local Community Center",
+        "image": "https://getwallpapers.com/wallpaper/full/6/7/d/491909.jpg",
+        "prerequisites": "Basic understanding of programming concepts",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Java",
+                    "Java Syntax and Data Types",
+                    "Control Flow Statements"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Object-Oriented Programming in Java",
+                    "Exception Handling"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "GUI Programming with JavaFX",
+                    "Multithreading"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Web Development with HTML, CSS, and JavaScript",
+        "instructor": "Alice Johnson",
+        "description": "Build responsive and dynamic websites using front-end technologies.",
+        "enrollment_status": "Open",
+        "duration": "6 weeks",
+        "schedule": "Monday, Wednesday - 5:00 PM to 7:00 PM",
+        "location": "Local Coding School",
+        "image": "https://phantomlandscapes.files.wordpress.com/2021/04/html-css-javascript.jpg",
+        "prerequisites": "Basic knowledge of HTML and CSS",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Web Development",
+                    "HTML Basics"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "CSS Styling",
+                    "Responsive Design"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "Introduction to JavaScript",
+                    "DOM Manipulation"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Data Science with Python and Pandas",
+        "instructor": "David Miller",
+        "description": "Explore data analysis and visualization using Python and Pandas.",
+        "enrollment_status": "Closed",
+        "duration": "12 weeks",
+        "schedule": "Tuesday, Thursday - 6:30 PM to 8:30 PM",
+        "location": "Data Science Institute",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SSlGsFjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1080/1*fUO28EIHi1bkZPhjZ451tQ.jpeg",
+        "prerequisites": "Basic Python knowledge",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Data Science",
+                    "Python for Data Science",
+                    "Introduction to Pandas"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Data Cleaning and Preprocessing",
+                    "Data Visualization with Matplotlib"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "Statistical Analysis",
+                    "Introduction to Machine Learning"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "C# Programming",
+        "instructor": "Chris Thompson",
+        "description": "Develop desktop and web applications with C# and .NET.",
+        "enrollment_status": "Open",
+        "duration": "8 weeks",
+        "schedule": "Monday, Wednesday, Friday - 7:00 PM to 9:00 PM",
+        "location": "Online",
+        "image": "https://cdnp1.stackassets.com/3c85fe2dfe6bab565731c235b6139b4a520126bc/store/44ee9266342994812e5838c434593bbb7f22ede83eee977bd5a135b23fdf/sale_16561_primary_image.jpg",
+        "prerequisites": "None",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to C#",
+                    "C# Syntax and Data Types",
+                    "Control Flow Statements"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Object-Oriented Programming in C#",
+                    "Exception Handling"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "GUI Programming with WinForms",
+                    "Web Development with ASP.NET"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "JavaScript Frameworks (React, Angular, Vue)",
+        "instructor": "Eva White",
+        "description": "Deep dive into popular JavaScript frameworks for modern web development.",
+        "enrollment_status": "In Progress",
+        "duration": "10 weeks",
+        "schedule": "Tuesday, Thursday - 6:00 PM to 8:00 PM",
+        "location": "Tech Hub",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.xvrMhTSva7fBLsHiBuh8iwHaDp&pid=Api&P=0&h=180",
+        "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to React.js",
+                    "Components and Props",
+                    "State and Lifecycle"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Introduction to Angular",
+                    "Components and Directives",
+                    "Services and Dependency Injection"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "Introduction to Vue.js",
+                    "Vue Components and Vue Router",
+                    "State Management with Vuex"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Web Development with Django (Python)",
+        "instructor": "Frank Turner",
+        "description": "Build robust web applications using Django framework with Python.",
+        "enrollment_status": "Closed",
+        "duration": "12 weeks",
+        "schedule": "Monday, Wednesday - 7:00 PM to 9:00 PM",
+        "location": "Python Institute",
+        "image": "https://ded9.com/wp-content/uploads/2021/05/3654e7e5cd4023d6a65bb172fb178be0.jpg",
+        "prerequisites": "Python and basic web development knowledge",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Django",
+                    "Setting up Django Project",
+                    "Django Models and Database"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Django Views and Templates",
+                    "User Authentication",
+                    "Django Forms"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "RESTful APIs with Django REST Framework",
+                    "Testing and Debugging",
+                    "Deployment and Scaling"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "C++ Programming",
+        "instructor": "George Johnson",
+        "description": "Learn object-oriented programming and application development with C++.",
+        "enrollment_status": "Open",
+        "duration": "8 weeks",
+        "schedule": "Tuesday, Thursday - 6:30 PM to 8:30 PM",
+        "location": "Local College",
+        "image": "http://mehregan.us/Content/UserFiles/Images/c%20plus%20plus/1.jpg",
+        "prerequisites": "None",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to C++",
+                    "C++ Syntax and Data Types",
+                    "Control Flow Statements"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Object-Oriented Programming in C++",
+                    "Inheritance and Polymorphism",
+                    "Exception Handling"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "STL (Standard Template Library)",
+                    "Memory Management",
+                    "File Handling in C++"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Full Stack Development",
+        "instructor": "Helen Williams",
+        "description": "Become a full-stack developer by mastering both front-end and back-end technologies.",
+        "enrollment_status": "Open",
+        "duration": "16 weeks",
+        "schedule": "Monday, Wednesday, Friday - 5:30 PM to 7:30 PM",
+        "location": "Coding Academy",
+        "image": "https://www.spec-india.com/wp-content/uploads/2020/06/Full_Stack.png",
+        "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Full Stack Development",
+                    "Front-end Development with HTML, CSS, and JavaScript",
+                    "Responsive Web Design"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Back-end Development with Node.js",
+                    "Express.js Framework",
+                    "RESTful APIs"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "Database Design and MongoDB",
+                    "Authentication and Authorization",
+                    "Deployment and DevOps"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Mobile App Development with Flutter",
+        "instructor": "Ivy Anderson",
+        "description": "Create cross-platform mobile apps using Flutter framework.",
+        "enrollment_status": "In Progress",
+        "duration": "10 weeks",
+        "schedule": "Tuesday, Thursday - 6:00 PM to 8:00 PM",
+        "location": "Mobile App Institute",
+        "image": "https://www.qualitydevs.com/wp-content/uploads/2021/03/Desarrollo-apps-moviles.jpg",
+        "prerequisites": "Basic knowledge of Dart programming language",
+        "syllabus": [
+            {
+                "week": 1,
+                "topics": [
+                    "Introduction to Flutter and Dart",
+                    "Flutter Widgets and Layouts",
+                    "State Management in Flutter"
+                ]
+            },
+            {
+                "week": 2,
+                "topics": [
+                    "Navigation and Routing",
+                    "Flutter UI Design",
+                    "Working with APIs"
+                ]
+            },
+            {
+                "week": 3,
+                "topics": [
+                    "Flutter Testing and Debugging",
+                    "Deployment to App Stores",
+                    "Advanced Flutter Topics"
+                ]
+            }
+        ]
+    }
+]
+
