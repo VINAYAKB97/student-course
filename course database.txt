@@ -188,7 +188,7 @@
         "duration": "10 weeks",
         "schedule": "Tuesday, Thursday - 6:00 PM to 8:00 PM",
         "location": "Tech Hub",
-        "image": "https://tse3.mm.bing.net/th?id=OIP.xvrMhTSva7fBLsHiBuh8iwHaDp&pid=Api&P=0&h=180",
+        "image": "https://existek.com/wp-content/uploads/2020/01/01-3.png",
         "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
         "syllabus": [
             {
@@ -226,7 +226,7 @@
         "duration": "12 weeks",
         "schedule": "Monday, Wednesday - 7:00 PM to 9:00 PM",
         "location": "Python Institute",
-        "image": "https://ded9.com/wp-content/uploads/2021/05/3654e7e5cd4023d6a65bb172fb178be0.jpg",
+        "image": "https://repository-images.githubusercontent.com/225977066/21fbe900-1719-11ea-90cc-536b180a5e0d",
         "prerequisites": "Python and basic web development knowledge",
         "syllabus": [
             {
