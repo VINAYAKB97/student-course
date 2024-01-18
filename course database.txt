@@ -74,7 +74,7 @@
     },
     {
         "id": 3,
-        "name": "Web Development with HTML, CSS, and JavaScript",
+        "name": "HTML, CSS, and JavaScript",
         "instructor": "Alice Johnson",
         "description": "Build responsive and dynamic websites using front-end technologies.",
         "enrollment_status": "Open",
@@ -109,7 +109,7 @@
     },
     {
         "id": 4,
-        "name": "Data Science with Python and Pandas",
+        "name": "Data Science with Pandas",
         "instructor": "David Miller",
         "description": "Explore data analysis and visualization using Python and Pandas.",
         "enrollment_status": "Closed",
@@ -181,7 +181,7 @@
     },
     {
         "id": 6,
-        "name": "JavaScript Frameworks (React, Angular, Vue)",
+        "name": "JavaScript Frameworks",
         "instructor": "Eva White",
         "description": "Deep dive into popular JavaScript frameworks for modern web development.",
         "enrollment_status": "In Progress",
@@ -219,7 +219,7 @@
     },
     {
         "id": 7,
-        "name": "Web Development with Django (Python)",
+        "name": "Web Development with Django",
         "instructor": "Frank Turner",
         "description": "Build robust web applications using Django framework with Python.",
         "enrollment_status": "Closed",
@@ -333,7 +333,7 @@
     },
     {
         "id": 10,
-        "name": "Mobile App Development with Flutter",
+        "name": "Mobile App Development",
         "instructor": "Ivy Anderson",
         "description": "Create cross-platform mobile apps using Flutter framework.",
         "enrollment_status": "In Progress",
